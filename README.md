@@ -8,6 +8,7 @@
 | 生年月日 | 1993/05/03                                     |
 | GitHub   | [tiizuka](https://github.com/colonel-tiger)    |
 | Qiita    | [kakikukeko09](https://qiita.com/kakikukeko09) |
+| Zenn     | [kakikukeko09](https://zenn.dev/kakikukeko09)  |
 
 ---
 
@@ -45,6 +46,7 @@
 - Vite
 - Vitest
 - Chromatic
+- CodeRabbit
 
 ---
 
